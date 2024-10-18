@@ -1,2 +1,3 @@
 # Amazon-Clone
-This is my first clone using HTML CSS
+This is my first clone using HTML CSS 
+Author - Rashika 
